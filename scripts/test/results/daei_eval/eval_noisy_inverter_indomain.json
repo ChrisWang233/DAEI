@@ -1,0 +1,13 @@
+{
+  "noisy_baseline": {
+    "eval_indomain_loss": 1.522896409034729,
+    "eval_indomain_token_set_f1": 0.5814446966628692,
+    "eval_indomain_bleu_score": 19.1651093977805,
+    "eval_indomain_rouge_score": 0.5660409169005318,
+    "eval_indomain_exact_match": 0.012,
+    "eval_indomain_emb_cos_sim": 0.8349254727363586,
+    "eval_indomain_runtime": 51.3123,
+    "eval_indomain_samples_per_second": 19.488,
+    "eval_indomain_steps_per_second": 0.253
+  }
+}

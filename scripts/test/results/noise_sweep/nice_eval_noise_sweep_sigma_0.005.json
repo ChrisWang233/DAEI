@@ -1,0 +1,13 @@
+{
+  "dae_shield_checkpoint-251200": {
+    "eval_indomain_loss": 1.2156976461410522,
+    "eval_indomain_token_set_f1": 0.7822762893626501,
+    "eval_indomain_bleu_score": 49.27124034202679,
+    "eval_indomain_rouge_score": 0.7850201004842948,
+    "eval_indomain_exact_match": 0.101,
+    "eval_indomain_emb_cos_sim": 0.9293022751808167,
+    "eval_indomain_runtime": 419.5666,
+    "eval_indomain_samples_per_second": 2.383,
+    "eval_indomain_steps_per_second": 0.038
+  }
+}
